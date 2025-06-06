@@ -511,11 +511,11 @@ ninja.data = [{
           window.open("https://github.com/adwaykanhere# your GitHub user name", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/adwaykanhere", "_blank");
         },
       },{
         id: 'social-rss',
@@ -529,7 +529,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=adwaykanhere", "_blank");
+          window.open("https://scholar.google.com/citations?user=PdzDPVgAAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
