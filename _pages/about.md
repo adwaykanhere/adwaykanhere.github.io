@@ -29,8 +29,6 @@ latest_posts:
 
 :wave: Hey there! Welcome to the corner of the internet where MRI voxels meet meme-grade wit, and both leave smarter.
 
-This is Adway Kanhere, and you're reading my portfolio! 
-
 I'm an incoming CS PhD student at [JHU](jhu.edu), advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/). I currently work as a Research Engineer for Dr. [Amal Isaiah](isaiahlab.org) at the University of Maryland Institute for Health Computing where I develop ML/AI applications for translational biomedical applications in surgery, radiology, and healthtech infra. 
 
 On the academic side, I also occasionally lecture as an Adjunct Instructor at JHU’s Carey Business School, delivering practical coursework in big data and machine learning for professionals aiming to bridge technical depth with business strategy. My academic origin story started with a master's in biomedical engineering, also from Hopkins, where I learned the fine art of taking really expensive 3D selfies of internal organs via MRI and CT. Turns out there's decent money in professional photography of the human body, as long as you call it "medical imaging."
