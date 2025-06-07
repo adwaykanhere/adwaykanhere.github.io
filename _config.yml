@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Token Talk # blog_name will be displayed in your blog page
-blog_description: Deep dives into stuff I'm into these days.....treat it like my brain dump
+blog_name: Token Talk :studio_microphone:  # blog_name will be displayed in your blog page
+blog_description:  Making GenAI uncool again :smirk:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
