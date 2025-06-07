@@ -46,4 +46,4 @@ When the GPUs cool down and my attention span times out, I swap keyboards for ha
 
 Apart from cardio I indulge in Ableton sessions where film-score strings merge with indian classical strings like the santoor and sitar, and emerge as something my neighbors describe “formally interesting.” I also enjoy cooking, because my smoke alarm sometimes doubles as a kitchen timer; and if friends arrive for the food they stay for the impromptu debate on whether prompt engineering and vibe coding should be on my résumé.
 
-Once a month I also attempt a full digital detox in the mountains. No Wi-Fi, no federated anything - just me, my playlist, and whatever existential bug reports nature files. It’s amazing how well my brain's neural networks converge when the only feedback loop is nature telling you to chill.
+Once a month I also attempt a full digital detox in the mountains. No Wi-Fi, no federated anything - just me, my playlist, and whatever existential bug reports nature files. It’s amazing how well our brain's neural networks converge when the only feedback loop is nature telling you to chill.
