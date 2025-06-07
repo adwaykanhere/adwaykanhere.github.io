@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Welcome to the corner of the internet where MRI voxels meet meme-grade wit. Pull up a tab and settle in - this portfolio is equal parts lab notebook, late-night writers’ room, and running commentary on why the GPU fan just hit Jet-Engine Mode. If you like your medical-AI deep dives served at the pace of a news sketch—where punch lines land between p-values—stick around. The next breakpoint might be funny.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-:wave: Hey there! Welcome to the corner of the internet where MRI voxels meet meme-grade wit, and both leave smarter.
+:wave: Hey there! 
 
 I'm an incoming CS PhD student at [JHU](jhu.edu), advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/). I currently work as a Research Engineer for Dr. [Amal Isaiah](isaiahlab.org) at the University of Maryland Institute for Health Computing where I develop ML/AI for translational biomedical applications in surgery, radiology, and healthtech infra. 
 
