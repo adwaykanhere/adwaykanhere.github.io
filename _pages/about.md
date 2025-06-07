@@ -43,7 +43,7 @@ I was also the co-founder of Farmplus, a dairy-tech startup where we built a coo
 
 ## IRL:
 
-When the GPUs cool down and my attention span times out, I swap keyboards for hand wraps and go a few rounds with a punching bag, an excellent practice for delivering REAL punchlines IMO. If I’m not sweating through boxing gloves, I’m logging suspicious "cardiovascular tests” at Centennial Park or on the JHU Homewood campus (translation: marathon training, but with a strategic boba stop at the end).
+When the GPUs cool down and my attention span times out, I swap keyboards for hand wraps and go a few rounds with a punching bag, an excellent practice for delivering REAL punchlines IMO. If I’m not sweating through boxing gloves, I’m logging suspicious "cardiovascular tests” at Centennial Park or on the JHU Homewood campus (translation: marathon training, but with a strategic 🧋 stop at the end).
 
 Apart from cardio I indulge in Ableton sessions where film-score strings merge with indian classical strings like the santoor and sitar, and emerge as something my neighbors describe “formally interesting.” I also enjoy cooking, because my smoke alarm sometimes doubles as a kitchen timer; and if friends arrive for the food they stay for the impromptu debate on whether prompt engineering and vibe coding should be on my résumé.
 
