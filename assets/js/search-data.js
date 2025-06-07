@@ -399,7 +399,7 @@ ninja.data = [{
           section: "News",},{id: "news-graduated-with-my-master-s-in-biomedical-engineering-from-jhu-blue-heart-tada-champagne",
           title: 'Graduated with my master’s in Biomedical Engineering from JHU :blue_heart: :tada: :champagne:',
           description: "",
-          section: "News",},{id: "news-our-fl-paper-won-the-best-poster-award-at-the-data-curation-and-augmentation-in-medical-imaging-workshop-at-cvpr-2024-grin-a-very-special-thanks-to-flower-labs-for-letting-me-use-their-servers-to-host-our-live-demo-bowing-man",
+          section: "News",},{id: "news-our-fl-paper-won-the-best-poster-award-at-the-data-curation-and-augmentation-in-medical-imaging-workshop-at-cvpr-2024-a-very-special-thanks-to-flower-labs-for-letting-me-use-their-servers-to-host-our-live-demo-bowing-man",
           title: 'Our FL paper won the Best Poster Award at the Data Curation and...',
           description: "",
           section: "News",},{id: "news-our-paper-on-predicting-brain-structure-and-cognition-using-upper-airway-volume-in-children-got-accepted-to-the-american-journal-of-respiratory-and-critical-care-medicine-champagne",
