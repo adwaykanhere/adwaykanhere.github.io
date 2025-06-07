@@ -501,14 +501,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%6B%61%6E%68%65%72%31@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%61%6B%61%6E%68%65%72%31@%6A%68%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/adwaykanhere# your GitHub user name", "_blank");
+          window.open("https://github.com/adwaykanhere", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -518,18 +518,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/adwaykanhere", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=PdzDPVgAAAAJ&hl=en", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/AdwayKanhere", "_blank");
         },
       },{
       id: 'light-theme',
