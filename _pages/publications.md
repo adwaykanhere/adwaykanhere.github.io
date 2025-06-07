@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description: All publications sorted by categories in reversed chronological order. * refers to co/first authors.
+title: publications/preprints
+description: All publications sorted by categories in reversed chronological order. 
 nav: true
 nav_order: 2
 ---
