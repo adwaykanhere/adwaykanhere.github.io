@@ -45,5 +45,4 @@ nav_order: 5
 | | <span style="color:blue;font-weight:bold;">EN.520.659</span> | Machine Learning for Medical Applications |
 | | <span style="color:blue;font-weight:bold;">EN.580.638</span> | Neuro Data Design II |
 | | <span style="color:blue;font-weight:bold;">AS.360.624</span> | Responsible Conduct of Research |
-| **Summer 2022** | <span style="color:blue;font-weight:bold;">EN.580.803</span> | Research in Biomedical Engineering |
-| **Fall 2022 – Spring 2023** | <span style="color:blue;font-weight:bold;">EN.580.801/802</span> | Research in Biomedical Engineering (continued) |
+| **Fall 2022 – Spring 2023** | <span style="color:blue;font-weight:bold;">EN.580.801/802</span> | Research Thesis |
