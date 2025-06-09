@@ -216,6 +216,7 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+      toc: true
 
 sass:
   style: compressed
