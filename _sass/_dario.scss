@@ -1,0 +1,27 @@
+.dario-post {
+  font-family: 'Georgia Pro', Georgia, 'Times New Roman', serif;
+  max-width: $max-content-width;
+  margin: 3rem auto;
+  padding: 2rem;
+  background-color: var(--global-bg-color);
+  color: var(--global-text-color);
+}
+
+.dario-post h1,
+.dario-post h2,
+.dario-post h3,
+.dario-post h4,
+.dario-post h5,
+.dario-post h6 {
+  color: var(--global-text-color);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.dario-post a {
+  color: var(--global-theme-color);
+
+  &:hover {
+    color: var(--global-hover-color);
+  }
+}
