@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/flowcv.com/resume/ha647kpnqf";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-academics",
+          title: "academics",
+          description: "teaching experience &amp; graduate coursework",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/academics/";
           },
         },{id: "post-a-post-with-plotly-js",
         
