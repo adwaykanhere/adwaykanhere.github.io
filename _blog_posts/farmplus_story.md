@@ -2,7 +2,7 @@
 layout: distill
 title: The story behind FarmPlus
 description: and how an evening chai session with the boys can turn ideas into startups
-tags: distill formatting
+tags: non-tech
 giscus_comments: true
 date: 2025-06-08
 featured: false
