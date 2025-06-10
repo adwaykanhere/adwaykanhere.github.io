@@ -31,11 +31,11 @@ Throughout my teaching assistant role, I had the opportunity to support a divers
 | Term                        | Course #                                                         | Course Title                              |
 | --------------------------- | ---------------------------------------------------------------- | ----------------------------------------- |
 | **Fall 2021**               | <span style="color:blue;font-weight:bold;">EN.553.636</span>     | Introduction to Data Science              |
-|                             | <span style="color:blue;font-weight:bold;">EN.580.697</span>     | [Neuro Data Design I]((https://neurodatadesign.io/))                       |
+|                             | <span style="color:blue;font-weight:bold;">EN.580.697</span>     | [Neuro Data Design I](https://neurodatadesign.io/)                      |
 |                             | <span style="color:blue;font-weight:bold;">EN.580.725</span>     | Radiology for Engineers                   |
 |                             | <span style="color:blue;font-weight:bold;">EN.530.641</span>     | Statistical Learning for Engineers        |
 | **Spring 2022**             | <span style="color:blue;font-weight:bold;">EN.520.638</span>     | Deep Learning                             |
 |                             | <span style="color:blue;font-weight:bold;">EN.520.659</span>     | Machine Learning for Medical Applications |
-|                             | <span style="color:blue;font-weight:bold;">EN.580.638</span>     | [Neuro Data Design II]((https://neurodatadesign.io/))                      |
+|                             | <span style="color:blue;font-weight:bold;">EN.580.638</span>     | [Neuro Data Design II](https://neurodatadesign.io/)                     |
 |                             | <span style="color:blue;font-weight:bold;">AS.360.624</span>     | Responsible Conduct of Research           |
 | **Fall 2022 – Spring 2023** | <span style="color:blue;font-weight:bold;">EN.580.801/802</span> | Research Thesis                           |
