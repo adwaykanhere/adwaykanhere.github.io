@@ -30,7 +30,7 @@ latest_posts:
 
 I'm an incoming CS PhD student at [JHU](jhu.edu), advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/). I currently work as a Research Engineer for Dr. [Amal Isaiah](https://www.medschool.umaryland.edu/profiles/isaiah-amal/) at the University of Maryland Institute for Health Computing where I develop ML/AI for translational biomedical applications in surgery, radiology, and healthtech infra.
 
-On the academic side, I also occasionally lecture as an Adjunct Instructor at JHU’s Carey Business School, delivering practical coursework in big data and machine learning for professionals aiming to bridge technical depth with business strategy. Before that, I received a master's degree in biomedical engineering, also from Hopkins, where I learned the fine art of taking really expensive 3D selfies of internal organs via MRI and CT. Turns out there's decent money in professional photography of the human body, as long as you call it "medical imaging."
+On the academic side, I also occasionally lecture as an Adjunct Instructor at JHU’s Carey Business School. Before that, I received a master's degree in biomedical engineering, also from Hopkins, where I learned the fine art of taking really expensive 3D selfies of internal organs via MRI and CT. Turns out there's decent money in professional photography of the human body, as long as you call it "medical imaging."
 
 ## Research:
 
