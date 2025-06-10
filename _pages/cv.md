@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: https://flowcv.com/resume/ha647kpnqf 
+permalink: https://flowcv.com/resume/ha647kpnqf
 title: cv
 nav: true
 nav_order: 5

@@ -36,7 +36,7 @@ On the academic side, I also occasionally lecture as an Adjunct Instructor at JH
 
 My research interests lie at the intersection of artificial intelligence, neuroscience and medical imaging. Feel free to connect with me if you want to share a thought!
 
-### CS Research 
+### CS Research
 
 - Mechanistic interpretability: Understanding how LLMs reason and develop internal biases, and developing methods to overcome these biases, with a focus on healthcare.
 - Multimodal learning, Vision-Language, and reasoning: Data and compute optimization strategies for LLMs/LMMs using non-convex optimization techniques.
