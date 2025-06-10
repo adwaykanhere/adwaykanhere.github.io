@@ -22,7 +22,7 @@ authors:
   - name: Adway Kanhere
     affiliations: Johns Hopkins University
 
-bibliography: farmplus_story.bib
+bibliography: 2025-06-28-farmplusstory.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
