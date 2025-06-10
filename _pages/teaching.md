@@ -9,29 +9,20 @@ nav_order: 5
 
 ## Teaching Experience
 
-**Johns Hopkins University – Carey School of Business, USA**  
-*Adjunct Instructor* (Feb 2024 – present)
+Since February 2024, I have served as an Adjunct Instructor at Johns Hopkins University's Carey School of Business, where I teach machine-learning methods to master's-level students across multiple programs including Business Analytics, Risk Management, and Financial Engineering. In this role, I have taught Big Data Machine Learning during Spring 2024 to one section of students, and I am currently teaching Practical Machine Learning to two sections in Spring 2025.
 
-- **Purpose:** Teach machine-learning methods to M.S.-level Business Analytics, Risk Management, and Financial Engineering students.
-- **Courses taught:**
-  - **Big Data Machine Learning** – Spring 2024 (1 section)
-  - **Practical Machine Learning** – Spring 2025 (2 sections)
+My journey in teaching at Johns Hopkins began earlier as a Graduate Teaching Assistant from March 2022 to May 2023, where I focused on enhancing student mastery of machine-learning skills across various quantitative business courses. During this period, I supported more than 36 hands-on machine learning hackathons, serving over 150 students in the Business Analytics and Risk Management programs. This experience involved curating real-world datasets, authoring interactive Jupyter notebooks with starter code, and designing challenging problems that would push students to apply their theoretical knowledge in practical settings.
 
-**Johns Hopkins University – Carey School of Business, USA**  
-*Graduate Teaching Assistant* (Mar 2022 – May 2023)
+Throughout my teaching assistant role, I had the opportunity to support a diverse range of courses that spanned the quantitative business curriculum. This progression from teaching assistant to instructor has allowed me to develop a comprehensive understanding of how students learn machine learning concepts and has shaped my approach to making complex quantitative methods accessible and engaging for business students.
 
-- **Purpose:** Enhance student mastery of machine-learning skills across quantitative business courses.
-- **Highlights:**
-  - Supported > 36 hands-on ML hackathons serving 150 + Business Analytics & Risk Management students.
-  - Curated real-world datasets, authored interactive Jupyter notebooks with starter code, and designed challenge problems.
-  - Earned consistently high student feedback for clarity, patience, and professionalism.
-- **Courses assisted:**
-  - Big Data Machine Learning (Spring II 2022 & Spring II 2023, Head TA)
-  - Operations Management (Fall I 2022)
-  - Data Analytics in R (Fall II 2022)
-  - Linear Econometrics for Finance (Fall II 2022)
-  - Python for Data Analytics (Spring I 2023)
-  - Empirical Finance (Spring II 2023)
+### Courses assisted as Graduate Teaching Assistant:
+
+- Big Data Machine Learning (Spring II 2022 & Spring II 2023, Head TA)
+- Operations Management (Fall I 2022)
+- Data Analytics in R (Fall II 2022)
+- Linear Econometrics for Finance (Fall II 2022)
+- Python for Data Analytics (Spring I 2023)
+- Empirical Finance (Spring II 2023)
 
 ---
 
