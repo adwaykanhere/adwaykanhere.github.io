@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academics/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-the-story-behind-farmplus",
+        
+          title: "The story behind FarmPlus",
+        
+        description: "and how an evening chai session with the boys can turn ideas into startups",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2025/06/08/farmplusstory.html";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
