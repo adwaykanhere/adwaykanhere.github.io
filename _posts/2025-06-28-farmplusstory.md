@@ -20,7 +20,8 @@ typograms: true
 
 authors:
   - name: Adway Kanhere
-    affiliations: Johns Hopkins University
+  - affiliations: 
+      name: Johns Hopkins University
 
 bibliography: 2025-06-28-farmplusstory.bib
 
