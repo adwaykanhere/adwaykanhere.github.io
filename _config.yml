@@ -82,8 +82,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Leftover Token Talk 🎙️ # blog_name will be displayed in your blog page
-blog_description: Field notes into manifold vector spaces, intelligent prompt hacks, wallstreet bets, and what to do in case AI takes over everything
+blog_name: the studio 🎙️ # blog_name will be displayed in your blog page
+blog_description: Training loops, music loops, life loops - iterate until awesome
 lsi: false # produce an index for related posts
 
 # Pagination
