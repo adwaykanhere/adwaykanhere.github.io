@@ -50,12 +50,12 @@ My research interests lie at the intersection of artificial intelligence, neuros
 
 ## Entrepreneurial Detour:
 
-I was also the co-founder of Farmplus, a dairy-tech startup where we built a cool fitbit for cows, tracked it with good ol' telecom frequecies, snagged 1st place at the 2022 Hopkins New Venture Challenge (HOPSTART) and were subsequently incubated at the JHU Spark Incubator. Check out the crazy BTS story of how that came to be in my blog (because my other co-founder and best friend wants me to take public accountability)
+I was also the co-founder of Farmplus, a dairy-tech startup where we built a cool fitbit for cows, tracked it with good ol' telecom frequecies, snagged 1st place at the 2022 Hopkins New Venture Challenge (HOPSTART) and were subsequently incubated at the JHU Spark Incubator. Check out the BTS story of how that came to be in my blog (because my other co-founder and best friend wants me to take public accountability)
 
 ## IRL:
 
 When the GPUs cool down and my attention span times out, I swap keyboards for hand wraps and go a few rounds with a punching bag, an excellent practice for delivering REAL punchlines IMO. If I’m not sweating through boxing gloves, I’m logging suspicious "cardiovascular tests” at Centennial Park or on the JHU Homewood campus (translation: marathon training, but with a strategic 🧋 stop at the end).
 
-Apart from cardio I indulge in acoustic sessions where film-score strings merge with indian classical strings like the santoor and sitar, and emerge as something my neighbors describe “formally interesting.” I also enjoy cooking, because my smoke alarm sometimes doubles as a kitchen timer; and if friends arrive for the food they stay for the impromptu debate on whether prompt engineering and vibe coding should be on my résumé.
+Apart from cardio I indulge in acoustic sessions where I attempt to merge film-score strings with indian classical strings like the santoor and sitar, and emerge as something my neighbors describe “formally interesting.” I also enjoy cooking, and if friends arrive for the food they stay for the impromptu debate on whether prompt engineering and vibe coding should be on my résumé.
 
 Once a month I also attempt a full digital detox in the mountains. No Wi-Fi, no federated anything - just me, my playlist, and whatever existential bug reports nature files. It’s amazing how well our brain's neural networks converge when the only feedback loop is nature telling you to chill.

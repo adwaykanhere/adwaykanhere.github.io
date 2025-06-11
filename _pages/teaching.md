@@ -26,7 +26,7 @@ Throughout my teaching assistant role, I had the opportunity to support a divers
 
 ---
 
-## Graduate Coursework (M.S.E. — Biomedical Engineering, JHU)
+### Graduate Coursework (Biomedical Engineering, JHU)
 
 | Term                        | Course #                                                         | Course Title                              |
 | --------------------------- | ---------------------------------------------------------------- | ----------------------------------------- |
