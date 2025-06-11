@@ -4,7 +4,7 @@ title: The story behind FarmPlus
 description: and how an evening chai session with the boys can turn ideas into startups
 tags: non-tech
 giscus_comments: true
-date: 2025-06-08
+date: 2025-06-01
 featured: false
 mermaid:
   enabled: true
@@ -23,7 +23,7 @@ authors:
   - affiliations: 
       name: Johns Hopkins University
 
-bibliography: 2025-06-28-farmplusstory.bib
+bibliography: 2025-06-01-farmplusstory.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
