@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: An extended collection of my past projects outside research.
+description: An extended collection of my past projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -15,7 +15,7 @@ horizontal: false
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/UM2ii/Better-PediatricCT-segmentation/blob/main/LICENSE) **An nnUNet-based 3D Segmentation model for segmenting thoracic organs in Pediatric CT** – Fine‑tunes adult-trained segmentation models to perform accurately on pediatric CTs.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/neurodata/df-dn-paper) **When are Deep Networks really better than Decision Forests at small sample sizes, and how?** – My contributions to an ongoing project at the NeuroData Lab at JHU BME on the comparative analysis of decision forests versus deep networks in small-data contexts.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/adwaykanhere/CXR-Pneumonia_detection) **Chest X-Ray based automated Pneumonia detection** – Automated pneumonia detection in chest X-rays via deep learning hosted on Streamlit.
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/adwaykanhere/DL_FCD) **DL_FCD** – Deep-learning-based segmentation of focal cortical dysplasia for epilepsy planning.
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/adwaykanhere/DL_FCD) **Deep learning to identify focal cortical dysplasia on brain MRI scans** – Focal Cortical Dysplasia can cause epileptic seizures in patients but can sometimes be completely invisible on MRI (called MR negative FCD). We developed a segmentation model to accurately predict regions of FCD on the brain while training on MR-ve samples as well.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/adwaykanhere/FYP) **EEG hardware integrated with neural correction models in a brain–computer interface system.** – My undergrad senior project on building a 3D printed head cap for accurate EEG signal acquisition and a deep learning model to predict words from EEG when you subvocalize them. The goal was to subvocalize words and detect them on EEG as spike potentials which would then interface an Alexa API. Too bad COVID hit then, and we couldn't test it out on folks :(  
 
 ### Talks and blogs
