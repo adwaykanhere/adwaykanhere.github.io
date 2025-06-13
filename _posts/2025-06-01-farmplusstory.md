@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: dario
 title: The story behind FarmPlus
 description: and how an evening chai session with the boys can turn ideas into startups
 tags: non-tech
@@ -52,7 +52,6 @@ bibliography: 2025-06-01-farmplusstory.bib
 
 ---
 
-## Roundtable chai
-
+We all underestimate the importance of dairy in our lives. Our morning coffee, 
 
 
