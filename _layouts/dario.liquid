@@ -9,12 +9,18 @@
       rel="stylesheet"
     >
 
-    <!-- Force font loading with inline styles -->
+    <!-- Force font loading with inline styles - only for blog content -->
     <style>
-      body.dario-body,
-      body.dario-body *:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(code):not(pre) {
+      /* Only apply Dario fonts to the main blog content area */
+      .dario-main,
+      .dario-main p,
+      .dario-main li,
+      .dario-content,
+      .dario-content p,
+      .dario-content li,
+      .dario-content *:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(code):not(pre) {
         font-family: 'Crimson Text', Georgia, 'Times New Roman', serif !important;
-        font-size: 18px !important;
+        font-size: 21px !important;
         line-height: 1.7 !important;
       }
 
@@ -35,6 +41,19 @@
         font-weight: 700 !important;
         line-height: 1.2 !important;
       }
+
+      .dario-subtitle {
+        font-size: 1.25rem !important;
+        font-weight: 400 !important;
+        line-height: 1.4 !important;
+      }
+
+      .dario-date {
+        font-size: 0.9rem !important;
+        font-weight: 500 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.5px !important;
+      }
     </style>
 
     {% if page._styles %}
@@ -43,7 +62,7 @@
       </style>
     {% endif %}
   </head>
-  <body class="dario-body {% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     {% include header.liquid %}
     <main class="dario-main">
       <article class="dario-article">

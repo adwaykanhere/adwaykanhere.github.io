@@ -1,26 +1,22 @@
 // Dario Amodei-style blog theme
 // Professional, academic, and readable
+// ONLY affects blog content, not header/footer
 
 // Variables
 $dario-max-width: 700px;
 $dario-line-height: 1.7;
-$dario-font-size: 18px;
+$dario-font-size: 21px;
 $dario-header-margin: 4rem;
 $dario-content-padding: 0 2rem;
 
-// Body styling
-body.dario-body {
-  font-family: "Crimson Text", "Georgia", "Times New Roman", serif !important;
-  font-size: $dario-font-size !important;
-  line-height: $dario-line-height !important;
-  color: var(--global-text-color);
-  background-color: var(--global-bg-color);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+// Remove body styling since we don't want to affect header/footer
+// The fonts will be applied only to the content areas below
 
-// Main container
+// Main container - apply Dario fonts here
 .dario-main {
+  font-family: "Crimson Text", "Georgia", "Times New Roman", serif !important;
+  font-size: 21px !important;
+  line-height: $dario-line-height !important;
   max-width: $dario-max-width;
   margin: 0 auto;
   padding: $dario-content-padding;
@@ -94,7 +90,7 @@ body.dario-body {
   // Typography
   p {
     font-family: "Crimson Text", "Georgia", "Times New Roman", serif !important;
-    font-size: $dario-font-size !important;
+    font-size: 21px !important;
     line-height: $dario-line-height !important;
     margin: 0 0 1.5rem 0;
     color: var(--global-text-color);
@@ -167,7 +163,7 @@ body.dario-body {
 
     li {
       font-family: "Crimson Text", "Georgia", "Times New Roman", serif !important;
-      font-size: $dario-font-size !important;
+      font-size: 21px !important;
       margin-bottom: 0.5rem;
       line-height: $dario-line-height;
     }
@@ -255,15 +251,15 @@ body.dario-body {
   }
 }
 
-// Dark mode adjustments
+// Dark mode adjustments - only for content areas
 html[data-theme="dark"] {
   .dario-header {
     border-bottom-color: var(--global-divider-color);
   }
 }
 
-// Force font application with high specificity
-body.dario-body .dario-content {
+// Force font application with high specificity - only for content areas
+.dario-main .dario-content {
   * {
     font-family: "Crimson Text", "Georgia", "Times New Roman", serif !important;
   }
@@ -284,6 +280,15 @@ body.dario-body .dario-content {
   }
 }
 
+// Apply fonts to main container and article content specifically
+.dario-main,
+.dario-article,
+.dario-content {
+  font-family: "Crimson Text", "Georgia", "Times New Roman", serif !important;
+  font-size: 21px !important;
+  line-height: $dario-line-height !important;
+}
+
 // Print styles
 @media print {
   .dario-main {
@@ -301,7 +306,7 @@ body.dario-body .dario-content {
   }
 
   .dario-content {
-    font-size: 12pt;
+    font-size: 14pt;
     line-height: 1.4;
   }
 }
