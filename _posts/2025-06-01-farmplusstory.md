@@ -15,37 +15,22 @@ authors:
 bibliography: 2025-06-01-farmplusstory.bib
 ---
 
+# [WIP] 
+
 We all underestimate the importance of dairy in our lives. Our morning coffee, the cereal we grab for breakfast, the cream in our pasta sauces, and countless other foods we consume daily all depend on a reliable supply of fresh, high-quality milk. Yet most of us never stop to think about the complex systems and challenges that dairy farmers face to get that milk from farm to table.
 
 This is the story of how a casual evening conversation over chai led to FarmPlus, a dairy-tech startup that won first place at the 2022 Hopkins New Venture Challenge and was subsequently incubated at the JHU Spark Incubator. It's a tale of recognizing opportunity in everyday problems, the power of interdisciplinary collaboration, and what happens when academic curiosity meets real-world impact.
 
 ## The Evening That Started It All
 
-It was a typical Baltimore evening in early 2022. My co-founder and best friend had come over to my apartment near the Hopkins campus, and we were doing what we always did during our study breaks: brewing some chai and diving into one of our characteristic deep-dive conversations that could span everything from machine learning to the economics of cricket leagues.
-
-That particular evening, the conversation somehow meandered to agriculture and food systems. We started talking about the various inefficiencies we'd observed in different industries, and somehow the topic shifted to dairy farming. Neither of us had any direct experience with farming, but we both grew up in families where understanding the source of our food was important.
-
-As we sat there with our steaming cups, my best friend began to wonder: in an age where we can track our fitness with wearables, monitor our homes with smart devices, and optimize our commutes with AI, why do dairy farmers still rely on such rudimentary methods to monitor the health and productivity of their herds?
 
 ## The Problem We Discovered
 
-Our curiosity led us down a research rabbit hole that lasted several weeks. What we discovered was eye-opening. Dairy farming, despite being a multi-billion dollar industry, still relied heavily on manual observation and record-keeping methods that hadn't changed significantly in decades.
 
-Farmers were walking through their herds multiple times a day, visually checking for signs of illness, estimating when cows might be ready for breeding, and manually tracking milk production. This wasn't just inefficient—it was costly. A single missed heat cycle could cost a farmer hundreds of dollars per cow. Early detection of illness could mean the difference between a quick, inexpensive treatment and a serious health crisis that could affect an entire herd.
-
-We learned that the average dairy cow produces about 6-7 gallons of milk per day, but this can vary significantly based on factors like health, nutrition, breeding cycle, and environmental conditions. Farmers who could optimize these factors and catch problems early had a significant competitive advantage.
-
-But the existing solutions were either prohibitively expensive for smaller farms or provided limited functionality. High-end monitoring systems could cost thousands of dollars per cow, making them accessible only to large industrial operations. Meanwhile, smaller family farms—which make up a significant portion of the dairy industry—were left with traditional methods that often meant reactive rather than proactive management.
 
 ## Building the Solution
 
-This is where our complementary skill sets became crucial. My background in biomedical engineering and experience with medical devices provided insight into sensor technology and data analysis, while my co-founder's expertise in business and operations helped us understand the market dynamics and customer needs.
 
-We envisioned a system that would be like a "Fitbit for cows"—a wearable device that could continuously monitor various health and behavioral parameters, providing farmers with actionable insights through an intuitive dashboard. The device would track movement patterns, body temperature, rumination (how much time cows spend chewing cud, which is a key health indicator), and other vital signs.
-
-But we wanted to go beyond just data collection. The real value would come from our analytics platform, which would use machine learning algorithms to predict health issues before they became serious, optimize breeding timing, and provide personalized recommendations for each animal.
-
-The technical challenges were significant. The device needed to be robust enough to withstand the harsh conditions of a dairy farm, waterproof, have a long battery life, and be cost-effective enough for widespread adoption. We also needed to ensure the data transmission was reliable even in rural areas with limited connectivity.
 
 ## The Technology Stack
 
@@ -61,13 +46,6 @@ Our solution centered around a collar-mounted device that we designed to be both
 
 ## Validation and Early Wins
 
-Our first major validation came when we were selected for the 2022 Hopkins New Venture Challenge. The competition required us not just to present our idea, but to demonstrate real traction and market validation. This pushed us to actually build our first prototypes and test them with real farmers.
-
-We partnered with several dairy farms in Maryland and Pennsylvania, providing our early-stage devices free of charge in exchange for feedback and data. The results were encouraging—farmers reported catching health issues an average of 2-3 days earlier than they would have with manual observation, and breeding efficiency improved by an average of 15%.
-
-One farmer told us that our system had helped him identify a cow with early-stage mastitis (a common and costly udder infection) before any visible symptoms appeared. Early treatment not only saved him hundreds of dollars in veterinary costs but prevented the infection from spreading to other animals.
-
-These early successes helped us win first place at the Hopkins New Venture Challenge, which came with a $25,000 prize and, more importantly, credibility and connections within the entrepreneurship ecosystem.
 
 ## The Incubator Experience
 
@@ -101,11 +79,6 @@ Technology has the potential to make agriculture more efficient, sustainable, an
 
 ## Looking Forward
 
-While FarmPlus eventually pivoted as we moved on to other pursuits (including my current focus on AI and medical imaging), the experience fundamentally shaped how I approach problem-solving and innovation. It reinforced my belief that the most meaningful innovations come from deeply understanding user needs and applying technology thoughtfully to address them.
-
-The dairy industry continues to evolve, with new technologies emerging regularly. Companies like [Cowlar](https://cowlar.com/) and [SCR Dairy](https://www.scrdairy.com/) are building on ideas similar to what we explored with FarmPlus, proving that the market opportunity we identified was real and continues to grow.
-
-For anyone considering entrepreneurship, especially in the agricultural technology space, I'd encourage you to spend time with your potential customers, understand their daily challenges, and be prepared to iterate rapidly based on what you learn. The most successful solutions are often simpler than you initially imagine, but getting to that simplicity requires a deep understanding of the problem you're trying to solve.
 
 ## The Accountability Moment
 
@@ -114,3 +87,6 @@ As I mentioned in my bio, my co-founder and best friend insisted that I write th
 To anyone reading this who has their own "crazy startup idea" brewing over late-night conversations with friends—don't just talk about it. Build something, test it, and see where it leads. You might be surprised by what you discover about both the market and yourself along the way.
 
 _What started as an evening conversation over chai turned into a real business, taught us invaluable lessons about entrepreneurship, and opened our eyes to the incredible potential for technology to transform traditional industries. Not bad for a Tuesday night study break._
+
+{% include figure.liquid loading="eager" path="assets/img/WCboys.png" class="img-fluid rounded z-depth-1" %}
+
