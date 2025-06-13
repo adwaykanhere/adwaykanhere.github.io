@@ -1,22 +1,37 @@
 <!doctype html>
-<html>
+<html lang="{{ site.lang | default: 'en' }}">
   <head>
     {% include head.liquid %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Charter:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    >
     {% if page._styles %}
       <style type="text/css">
         {{ page._styles }}
       </style>
     {% endif %}
   </head>
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body class="dario-body {% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     {% include header.liquid %}
-    <main class="dario-post">
-      <article>
-        <header>
-          <h1>{{ page.title }}</h1>
-          <p>{{ page.description }}</p>
+    <main class="dario-main">
+      <article class="dario-article">
+        <header class="dario-header">
+          <h1 class="dario-title">{{ page.title }}</h1>
+          {% if page.description %}
+            <p class="dario-subtitle">{{ page.description }}</p>
+          {% endif %}
+          {% if page.date %}
+            <time class="dario-date" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+              {{ page.date | date: '%B %d, %Y' }}
+            </time>
+          {% endif %}
         </header>
-        {{ content }}
+        <div class="dario-content">
+          {{ content }}
+        </div>
       </article>
     </main>
     {% include footer.liquid %}
