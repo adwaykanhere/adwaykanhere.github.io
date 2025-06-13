@@ -4,12 +4,9 @@
     {% include head.liquid %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-      href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@400;500;600;700&display=swap"
-      rel="stylesheet"
-    >
-
-    <!-- Force font loading with inline styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Force font loading with inline styles - only for blog content -->
     <style>
       /* Only apply Dario fonts to the main blog content area */
       .dario-main,
@@ -20,7 +17,7 @@
       .dario-content li,
       .dario-content *:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(code):not(pre) {
         font-family: 'Crimson Text', Georgia, 'Times New Roman', serif !important;
-        font-size: 18px !important;
+        font-size: 21px !important;
         line-height: 1.7 !important;
       }
       
@@ -37,9 +34,22 @@
       }
       
       .dario-title {
-        font-size: 3rem !important;
+        font-size: 2.5rem !important;
         font-weight: 700 !important;
         line-height: 1.2 !important;
+      }
+      
+      .dario-subtitle {
+        font-size: 1.25rem !important;
+        font-weight: 400 !important;
+        line-height: 1.4 !important;
+      }
+      
+      .dario-date {
+        font-size: 0.9rem !important;
+        font-weight: 500 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.5px !important;
       }
     </style>
     
