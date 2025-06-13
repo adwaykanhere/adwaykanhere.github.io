@@ -36,14 +36,14 @@ On the academic side, I also occasionally lecture as an Adjunct Instructor at JH
 
 My research interests lie at the intersection of artificial intelligence, neuroscience and medical imaging. Feel free to connect with me if you want to share a thought!
 
-### CS Research
+### CS Research:
 
 - **Mechanistic interpretability**: Understanding how LLMs reason and develop internal biases, and developing methods to overcome these biases, with a focus on healthcare.
 - **Multimodal learning, Vision-Language, and reasoning**: Data and compute optimization strategies for LLMs/LMMs using non-convex optimization techniques.
 - **Medical data representation**: Coreset based approaches for representing large medical data manifolds
 - **Federated learning**: Harmonizing heterogeneous non-i.i.d data in a model agnostic and modality agnostic setting while maintaining SOTA privacy measures.
 
-### Clinical Research -
+### Clinical Research:
 
 - **Biomarker discovery**: Identifying novel biomarkers to predict cognitive outcomes based on gross anatomy
 - **Medical imaging**: Building segmentation models for translational applications in radiology and surgery using foundational models
