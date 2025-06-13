@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: An extended collection of my projects outside research.
+description: An extended collection of my past projects outside research.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
