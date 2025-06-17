@@ -46,7 +46,7 @@ My research interests lie at the intersection of artificial intelligence, neuros
 ### Clinical Research:
 
 - **Biomarker discovery**: Identifying novel biomarkers to predict cognitive outcomes based on gross anatomy
-- **Medical imaging**: Building segmentation models for translational applications in radiology and surgery using foundational models
+- **Medical image analysis**: Building segmentation models for translational applications in radiology and surgery using foundational models
 
 ## Entrepreneurial Detour:
 
