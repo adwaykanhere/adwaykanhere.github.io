@@ -30,7 +30,7 @@ latest_posts:
 
 I'm an incoming CS PhD student at [JHU](jhu.edu), advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/). I currently work as a Research Engineer for Dr. [Amal Isaiah](https://www.medschool.umaryland.edu/profiles/isaiah-amal/) at the University of Maryland Institute for Health Computing where I develop ML/AI for translational biomedical applications in surgery, radiology, and healthtech infra.
 
-On the academic side, I also occasionally lecture as an Adjunct Instructor at JHU’s Carey Business School. Before that, I received a master's degree in biomedical engineering, also from Hopkins, where I learned the fine art of taking really expensive 3D selfies of internal organs via MRI and CT. Turns out there's decent money in professional photography of the human body, as long as you call it "medical imaging."
+On the academic side, I also occasionally lecture as an Adjunct Instructor at JHU’s Carey Business School. Before that, I received a master's degree in biomedical engineering, also from Hopkins, where I learned the fine art of taking really expensive 3D selfies of internal organs via MRI and CT. Turns out there's decent interest in professional photography of the human body, as long as you call it "medical imaging."
 
 ## Research:
 
@@ -50,7 +50,7 @@ My research interests lie at the intersection of artificial intelligence, neuros
 
 ## Entrepreneurial Detour:
 
-I was also the co-founder of Farmplus, a dairy-tech startup where we built a cool fitbit for cows, tracked it with good ol' telecom frequecies, snagged 1st place at the 2022 Hopkins New Venture Challenge (HOPSTART) and were subsequently incubated at the JHU Spark Incubator. Check out the BTS story of how that came to be in my blog (because my other co-founder and best friend wants me to take public accountability)
+I was also the co-founder of Farmplus, a dairy-tech startup where we built a cool fitbit for cows, tracked it with good ol' telecom frequecies, snagged 1st place at the 2022 Hopkins New Venture Challenge (HOPSTART) and were subsequently incubated at the JHU Spark Incubator. Check out the BTS story in my blog (because my other co-founder and best friend wants me to take public accountability)
 
 ## IRL:
 
