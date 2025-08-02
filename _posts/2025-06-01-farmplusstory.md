@@ -124,3 +124,5 @@ The intersection of technology and traditional industries offers fertile ground 
 _What began as an evening conversation over chai evolved into a genuine startup experience that taught us invaluable lessons about entrepreneurship and opened our eyes to technology's incredible potential for transforming traditional industries. Not bad for a Tuesday night study break._
 
 {% include figure.liquid loading="eager" path="assets/img/WCboys.png" class="img-fluid rounded z-depth-1" %}
+
+- Cheers, A
