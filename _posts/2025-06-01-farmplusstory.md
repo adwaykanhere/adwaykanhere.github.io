@@ -81,7 +81,7 @@ The process taught us to kill our darlings—to abandon technically impressive c
 
 The FarmPlus journey illuminated fundamental truths about entrepreneurship, technology development, and the delicate art of introducing innovation into traditional industries:
 
-**Customer-Centric Design**: Technical elegance means nothing without solving real problems for real customers in ways they're willing to pay for. Our time spent in barns, observing daily routines and listening to farmer concerns, proved more valuable than any theoretical market research. These conversations taught us that farmers are sophisticated consumers who evaluate technology through the lens of practical utility and return on investment.
+**Customer-Centric Design**: Technical elegance means nothing without solving real problems for real customers in ways they're willing to pay for. Our time spent in understanding daily routines and listening to farmer concerns, proved more valuable than any theoretical market research. These conversations taught us that farmers are sophisticated consumers who evaluate technology through the lens of practical utility and return on investment.
 
 **The Power of Interdisciplinary Teams**: Our group's diverse backgrounds in biomedical engineering, finance, sales, and business management created a synergy that none of us could have achieved individually. The combination of technical depth and business acumen proved essential for tackling both engineering challenges and market development needs.
 
