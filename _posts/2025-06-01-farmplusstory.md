@@ -77,7 +77,7 @@ We learned to embrace failure as an essential learning mechanism. Our initial ha
 
 The process taught us to kill our darlings—to abandon technically impressive components that didn't directly solve customer problems. This discipline, painful for engineering minds enamored with technical elegance, proved essential for commercial viability.
 
-## What I Learned: Wisdom from the intersection of technology and tradition
+## Lessons Learned: Wisdom from the intersection of technology and tradition
 
 The FarmPlus journey illuminated fundamental truths about entrepreneurship, technology development, and the delicate art of introducing innovation into traditional industries:
 
