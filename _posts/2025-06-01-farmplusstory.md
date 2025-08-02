@@ -19,7 +19,7 @@ We all underestimate the importance of dairy in our lives. Our morning coffee, t
 
 This is the story of how a casual evening conversation over chai led to FarmPlus, a dairy-tech startup that won first place at the 2022 Hopkins New Venture Challenge and was subsequently incubated at the JHU Spark Incubator. It's about how a random idea turned into a real startup experience and all the things we learned along the way.
 
-_Disclaimer: This is definitely not a technical blog post. Think of this as my attempt to document something important that happened to me, somewhere between "dear diary" and "academic paper that puts people to sleep." 
+_Disclaimer: This is definitely not a technical blog post. Think of this as my attempt to document something important that happened to me, somewhere between "dear diary" and "academic paper that puts people to sleep.". I use "we" a lot more in this blog because altough I was responsible for building the tech, this was very much a team effort :)_
 
 ## The Backstory: The evening that started it all
 
@@ -49,7 +49,7 @@ The technical challenges were formidable. Cows possess a layer of fur that makes
 
 We centered our approach around an ear-mounted device designed to survive the harsh realities of farm life while delivering laboratory-grade data accuracy.
 
-**Hardware Design**: We engineered a rugged, waterproof housing that protected multiple sophisticated sensors—accelerometers for movement tracking, temperature sensors for internal heat monitoring, and specialized algorithms to detect rumination patterns. The device needed to function flawlessly for several years with minimal human intervention, enduring everything from torrential rains to subzero winters. One of our coolest design challenges was the charging system. Since cows return to specific docking pods in the shed at the end of each day, we designed our device to charge wirelessly when they were docked—kind of like a Tesla at a supercharger station. We used induction charging with a head coil that worked similar to the coils humans wear during MRI scans, so the device could power up overnight while the cow rested.
+**Hardware Design**: With the help of an old friend who is an expert in electronics/PCB design, we engineered a rugged, waterproof housing that protected multiple sophisticated sensors—accelerometers for movement tracking, temperature sensors for internal heat monitoring, and specialized algorithms to detect rumination patterns. The device needed to function flawlessly for several years with minimal human intervention, enduring everything from torrential rains to subzero winters. One of our coolest design challenges was the charging system. Since cows return to specific docking pods in the shed at the end of each day, we designed our device to charge wirelessly when they were docked—kind of like a Tesla at a supercharger station. We used induction charging with a head coil that worked similar to the coils humans wear during MRI scans, so the device could power up overnight while the cow rested.
 
 {% include figure.liquid loading="eager" path="assets/img/FarmPlus_tech.jpg" class="img-fluid rounded z-depth-1" %}
 
@@ -121,6 +121,6 @@ To anyone reading this who harbors their own "crazy startup idea" brewing during
 
 The intersection of technology and traditional industries offers fertile ground for innovation, but success requires humility, persistence, and genuine respect for the wisdom embedded in established practices. My FarmPlus experience taught me that the most profound innovations often emerge not from disrupting traditional industries, but from thoughtfully enhancing them with modern capabilities.
 
-_What began as an evening conversation over chai evolved into a genuine startup experience that taught us invaluable lessons about entrepreneurship and opened our eyes to technology's incredible potential for transforming traditional industries. Not bad for what started as a Tuesday night study break._
+_What began as an evening conversation over chai evolved into a genuine startup experience that taught us invaluable lessons about entrepreneurship and opened our eyes to technology's incredible potential for transforming traditional industries. Not bad for a Tuesday night study break._
 
 {% include figure.liquid loading="eager" path="assets/img/WCboys.png" class="img-fluid rounded z-depth-1" %}
