@@ -95,7 +95,7 @@ The FarmPlus journey illuminated fundamental truths about entrepreneurship, tech
 
 ## The Bigger Picture: Technology's role in feeding the world
 
-FarmPlus represented more than a business venture—it served as our introduction to the intersection of technology and agriculture, a domain with enormous potential for positive global impact. Agriculture feeds humanity, but faces unprecedented challenges from climate change, population growth, and resource constraints.
+FarmPlus represented more than a business venture to us— and it served as my introduction to the intersection of technology and agriculture, a domain with enormous potential for positive global impact. Agriculture feeds humanity, but faces unprecedented challenges from climate change, population growth, and resource constraints.
 
 Technology holds genuine potential to make agriculture more efficient, sustainable, and profitable. However, successful agricultural technology requires entrepreneurs who understand both technical possibilities and practical industry realities. Our experience taught us that effective ag-tech demands deep empathy for farmers and their challenges, not merely technical expertise.
 
@@ -103,7 +103,7 @@ The dairy industry exemplifies this balance. While consumers see only the final 
 
 ## Looking Forward: Lessons for future agricultural innovators
 
-The FarmPlus experience revealed principles that extend beyond our specific solution. Future agricultural technology developers might consider several key insights from our journey:
+The FarmPlus experience revealed principles that extend beyond our specific solution. These are my two cents for any future agricultural technology developers from my journey:
 
 First, spend significant time understanding the human element of farming. Technology adoption in agriculture depends heavily on trust, reliability, and seamless integration with existing practices. Farmers are sophisticated decision-makers who evaluate innovations through multiple lenses: economic impact, operational complexity, and long-term sustainability.
 
@@ -111,7 +111,7 @@ Second, recognize that agricultural markets operate on different timescales than
 
 Third, consider the global implications of agricultural innovation. Solutions developed for American farms might require substantial modification for international markets, but the fundamental challenges of feeding growing populations remain universal. Scalable agricultural technology has the potential to address some of humanity's most pressing challenges.
 
-As for us, we decided to take a hiatus from FarmPlus after graduation to focus on our full-time jobs. But we're all still passionate about making an impact in this space and incredibly proud of what we achieved together. I guess life really does throw the occasional curve ball—sometimes the timing just isn't right, even when the idea is solid.
+As for my team, we decided to take a hiatus from FarmPlus after graduation to focus on our full-time jobs. But we're all still passionate about making an impact in this space and incredibly proud of what we achieved together. I guess life really does throw the occasional curve ball—sometimes the timing just isn't right, even when the idea is solid.
 
 ## The Accountability Moment
 
