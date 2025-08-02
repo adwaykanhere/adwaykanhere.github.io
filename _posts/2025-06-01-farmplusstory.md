@@ -47,7 +47,7 @@ The technical challenges were formidable. Cows possess a layer of fur that makes
 
 {% include video.liquid path="assets/video/Exploding Cows High Res.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 
-Our solution emerged from the intersection of biomedical engineering precision and agricultural pragmatism. We centered our approach around an ear-mounted device designed to survive the harsh realities of farm life while delivering laboratory-grade data accuracy.
+We centered our approach around an ear-mounted device designed to survive the harsh realities of farm life while delivering laboratory-grade data accuracy.
 
 **Hardware Design**: We engineered a rugged, waterproof housing that protected multiple sophisticated sensors—accelerometers for movement tracking, temperature sensors for internal heat monitoring, and specialized algorithms to detect rumination patterns. The device needed to function flawlessly for several years with minimal human intervention, enduring everything from torrential rains to subzero winters. One of our coolest design challenges was the charging system. Since cows return to specific docking pods in the shed at the end of each day, we designed our device to charge wirelessly when they were docked—kind of like a Tesla at a supercharger station. We used induction charging with a head coil that worked similar to the coils humans wear during MRI scans, so the device could power up overnight while the cow rested.
 
