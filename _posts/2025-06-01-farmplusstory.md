@@ -105,7 +105,7 @@ The dairy industry exemplifies this balance. While consumers see only the final 
 
 The FarmPlus experience revealed principles that extend beyond our specific solution. These are my two cents for any future agricultural technology developers from my journey:
 
-First, spend significant time understanding the human element of farming. Technology adoption in agriculture depends heavily on trust, reliability, and seamless integration with existing practices. Farmers are sophisticated decision-makers who evaluate innovations through multiple lenses: economic impact, operational complexity, and long-term sustainability.
+First, spend significant time understanding the human element of a traditional system. Technology adoption in agriculture depends heavily on trust, reliability, and seamless integration with existing practices. Farmers are sophisticated decision-makers who evaluate innovations through multiple lenses: economic impact, operational complexity, and long-term sustainability.
 
 Second, recognize that agricultural markets operate on different timescales than typical tech markets. Product development cycles, customer acquisition, and revenue generation all follow patterns distinct from consumer technology or B2B software markets. Patience and persistence become essential entrepreneurial qualities.
 
