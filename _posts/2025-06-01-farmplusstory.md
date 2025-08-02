@@ -51,13 +51,13 @@ We centered our approach around an ear-mounted device designed to survive the ha
 
 **Hardware Design**: We engineered a rugged, waterproof housing that protected multiple sophisticated sensors—accelerometers for movement tracking, temperature sensors for internal heat monitoring, and specialized algorithms to detect rumination patterns. The device needed to function flawlessly for several years with minimal human intervention, enduring everything from torrential rains to subzero winters. One of our coolest design challenges was the charging system. Since cows return to specific docking pods in the shed at the end of each day, we designed our device to charge wirelessly when they were docked—kind of like a Tesla at a supercharger station. We used induction charging with a head coil that worked similar to the coils humans wear during MRI scans, so the device could power up overnight while the cow rested.
 
+{% include figure.liquid loading="eager" path="assets/img/FarmPlus_tech.jpg" class="img-fluid rounded z-depth-1" %}
+
 **Connectivity**: The scale of American agriculture demanded a connectivity solution as ambitious as the farms themselves. With the average U.S. farm spanning 500 acres, conventional Bluetooth or even long-range WiFi proved woefully inadequate. Drawing inspiration from cellular tower technology, we implemented a mesh network system using long-range, low-power radio frequencies. This innovation allowed data from individual cows to flow seamlessly to a central hub, even across vast properties with limited technological infrastructure.
 
 **Data Analytics**: We developed machine learning models capable of identifying patterns indicative of health issues, breeding readiness, and herd optimization opportunities. Our system learned from each farm's unique conditions and herd characteristics, becoming increasingly accurate as it absorbed more data. The algorithms could distinguish between normal behavioral variations and significant biological events, reducing false alarms while ensuring no critical moments were missed.
 
 **User Interface**: We crafted a deliberately simple, intuitive dashboard that translated complex biological data into actionable insights. Rather than overwhelming farmers with technical minutiae, our interface prioritized critical alerts and could dispatch notifications via text message or email when specific cows required immediate attention.
-
-{% include figure.liquid loading="eager" path="assets/img/FarmPlus_tech.jpg" class="img-fluid rounded z-depth-1" %}
 
 ## Customer Validation and Outreach: Learning from the field
 
