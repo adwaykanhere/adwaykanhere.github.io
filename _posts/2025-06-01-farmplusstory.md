@@ -119,7 +119,7 @@ As I mentioned in my bio, my co-founder and best friend insisted that I write th
 
 To anyone reading this who harbors their own "crazy startup idea" brewing during informal conversations with friends—don't merely discuss it. Build something tangible, test it rigorously, and pursue it with genuine commitment. You might discover surprising insights about both the market opportunity and your own capabilities along the way.
 
-The intersection of technology and traditional industries offers fertile ground for innovation, but success requires humility, persistence, and genuine respect for the wisdom embedded in established practices. Our FarmPlus experience taught us that the most profound innovations often emerge not from disrupting traditional industries, but from thoughtfully enhancing them with modern capabilities.
+The intersection of technology and traditional industries offers fertile ground for innovation, but success requires humility, persistence, and genuine respect for the wisdom embedded in established practices. My FarmPlus experience taught me that the most profound innovations often emerge not from disrupting traditional industries, but from thoughtfully enhancing them with modern capabilities.
 
 _What began as an evening conversation over chai evolved into a genuine startup experience that taught us invaluable lessons about entrepreneurship and opened our eyes to technology's incredible potential for transforming traditional industries. Not bad for what started as a Tuesday night study break._
 
