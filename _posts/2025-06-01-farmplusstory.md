@@ -19,7 +19,7 @@ We all underestimate the importance of dairy in our lives. Our morning coffee, t
 
 This is the story of how a casual evening conversation over chai led to FarmPlus, a dairy-tech startup that won first place at the 2022 Hopkins New Venture Challenge and was subsequently incubated at the JHU Spark Incubator. It's about how a random idea turned into a real startup experience and all the things we learned along the way.
 
-_Disclaimer: This is definitely not a technical blog post. Think of this as my attempt to document something important that happened to me, somewhere between "dear diary" and "academic paper that puts people to sleep.". I use "we" a lot more in this blog because altough I was responsible for building the tech, this was very much a team effort :)_
+_Disclaimer: This is definitely not a technical blog post. Think of this as my attempt to document something important that happened to me, somewhere between "dear diary" and "academic paper that puts people to sleep.". I use "we" a lot more in this blog because although I was responsible for building the tech, this was very much a team effort :)_
 
 ## The Backstory: The evening that started it all
 
