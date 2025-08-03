@@ -55,7 +55,7 @@ We centered our approach around an ear-mounted device designed to survive the ha
     </div>
 </div>
 <div class="caption">
-    3D rendering of the first prototype. We designed a custom board to house the sensors and a seperate battery which was chargeable uwing usb but was later swapped with a better induction based design. The outer casing was 3D printed ABS. 
+    3D rendering of the first prototype. We designed a custom board to house the sensors and a seperate battery which was usb-chargeable but later swapped with an induction-based design. The outer casing was 3D printed ABS. 
 </div>
 
 
