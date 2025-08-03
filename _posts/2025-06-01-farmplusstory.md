@@ -24,7 +24,7 @@ This is the story of how a casual evening conversation over chai led to FarmPlus
 
 The amber glow of our apartment's overhead light cast familiar shadows across the worn wooden table as steam rose from our chai glasses that spring evening in 2022. In India, there's a saying - "Chai pe Charcha" (chats over chai) - and there's a whole tradition around these tea sessions. What began as our obligatory evening ritual would transform into one of those conversations that redirects the trajectory of our semester.
 
-My roommate, our in-house "Milk Connoisseur" with deep ties to India's dairy industry, studied me with the intensity of someone about to pose a challenge that would reshape everything. "You keep talking about building health monitoring devices," he said, leaning forward, "but can you make a health monitoring system that works on a cow?"
+My roommate, our in-house "Milk Connoisseur" with deep ties to India's dairy industry, studied me with the intensity of someone about to pose a challenge that would make you question your life choices. "You keep talking about building health monitoring devices," he said, leaning forward, "but can you make a health monitoring system that works on a cow?"
 
 The question hung in the air like the aromatic cardamom from our chai. At first, I thought this was absurd—a playful provocation born from too much chai and late-night academic ambition. My roommate began unraveling the intricacies of dairy health monitoring, explaining the parameters and metrics that mattered to farmers, the economic pressures they faced, and the technological gaps that persisted in an industry feeding billions.
 
