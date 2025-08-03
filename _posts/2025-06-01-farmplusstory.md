@@ -93,7 +93,7 @@ The FarmPlus journey illuminated fundamental truths about entrepreneurship, tech
 
 **Iterative Development Philosophy**: Academic perfectionism demanded that we complete solutions before seeking feedback. Startup methodology taught us that early, frequent feedback—even on imperfect prototypes—accelerated progress and improved outcomes. This shift from perfection-driven to iteration-driven development proved transformational.
 
-**Market Education Challenges**: We underestimated the effort required to educate potential customers about our solution's value proposition. Many farmers harbored skepticism toward technology, having experienced previous "innovative" solutions that failed to deliver promised benefits. This skepticism actually strengthened our approach—it forced us to become better communicators and ensured our solution adhered to Kelly Johnson's K.I.S.S. principle (Keep It Simple, Stupid), developed during his work on the SR-71 Blackbird and other aerospace marvels.
+**Market Education Challenges**: We underestimated the effort required to educate potential customers about our solution's value proposition. Many farmers harbored skepticism toward technology, having experienced previous "innovative" solutions that failed to deliver promised benefits. This skepticism actually strengthened our approach—it forced us to become better communicators and ensured our solution adhered to Kelly Johnson's K.I.S.S. principle (Keep It Simple, Stupid; developed during his work on the SR-71 Blackbird and other aerospace marvels).
 
 {% include figure.liquid loading="eager" path="assets/img/kiss.jpeg" class="img-fluid rounded z-depth-1" %}
 
