@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/2025/06/01/farmplusstory.html";
           
         },
+      },{id: "post-pioneering-the-future-of-medical-imaging-with-federated-learning",
+        
+          title: 'Pioneering the Future of Medical Imaging with Federated Learning <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Revolutionize medical imaging while safeguarding sensitive patient data using Flower and federated learning.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://flower.ai/blog/2025-02-24-university-of-maryland-blog-post/", "_blank");
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
