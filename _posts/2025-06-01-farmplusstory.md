@@ -121,7 +121,7 @@ As for my team, we decided to take a hiatus from FarmPlus after graduation to fo
 
 ## The Accountability Moment
 
-As I mentioned in my bio, my co-founder and best friend insisted that I write this story and take "public accountability" for our FarmPlus journey. Consider this my fulfillment of that promise. Sometimes the most powerful motivation comes from friends who refuse to let you forget the ambitious ideas you've pursued together over late-night conversations.
+As I mentioned in my bio, my co-founder and best friend insisted that I write this story and take "public accountability" for our FarmPlus journey. Consider this my fulfillment of that promise. Sometimes the most powerful motivation comes from best friends who refuse to let you forget the ambitious ideas you've pursued together over late-night conversations.
 
 To anyone reading this who harbors their own "crazy startup idea" brewing during informal conversations with friends—don't merely discuss it. Build something tangible, test it rigorously, and pursue it with genuine commitment. You might discover surprising insights about both the market opportunity and your own capabilities along the way.
 
