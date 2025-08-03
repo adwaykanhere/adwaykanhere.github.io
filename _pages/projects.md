@@ -22,4 +22,4 @@ horizontal: false
 
 - [**Flower Blog** (Feb 24, 2025)](https://flower.ai/blog/2025-02-24-university-of-maryland-blog-post/) – Flower labs covered my experience as part of the Flower Next Pilot Program and our work together in federated medical imaging. 
 - **Flower Monthly Invited Talk** – The video version of our Flower‑AI federated learning and clinical imaging workflow as part of the Flower Next Pilot Program Phase 1
-<iframe width="560" height="400" src="https://www.youtube.com/embed/ZXnvlo8LthM?si=su2WLXHh8MhGEOgm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="860" height="400" src="https://www.youtube.com/embed/ZXnvlo8LthM?si=su2WLXHh8MhGEOgm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
