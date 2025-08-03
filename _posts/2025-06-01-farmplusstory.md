@@ -38,7 +38,7 @@ Here's the economic reality that drives every decision on a dairy farm: cows can
 
 The art and science of bovine reproduction timing is where fortunes are made and lost. Farmers must identify the precise 12-24 hour window when a cow is in estrus (heat) and ready for insemination. Miss this window, and you've lost a month—potentially thousands of dollars in delayed milk production. Get it right, and you've set in motion a carefully orchestrated biological and economic cycle that sustains the farm's profitability.
 
-This requires developing tools to identify when a cow is ready for insemination with unprecedented precision. We learned that a cow's internal heat—distinct from mere body temperature—serves as a reliable indicator for the ovulation cycle. As cows experience this internal heat surge, they exhibit specific behavioral patterns: increased vocalization (mooing), restless head movement, and heightened activity levels. These subtle signs, when properly detected and analyzed, become the farmer's early warning system for optimal breeding timing.
+This requires developing tools to identify when a cow is ready for insemination with unprecedented precision. We learned that a cow's internal heat—distinct from mere body temperature—serves as a reliable indicator for the ovulation cycle. As cows experience this internal heat surge, they exhibit specific behavioral patterns: increased vocalization (mooing), restless head movement, and heightened activity levels. These subtle signs, when properly detected and analyzed, become the farmer's early warning system for optimal breeding timing. As the tech lead, it was my job to design a system that would augment the farmer's system design.
 
 The technical challenges were formidable. Cows possess a layer of fur that makes photoplethysmography (infrared blood monitoring) sensing nearly impossible, since IR signals cannot bounce back effectively through fur. This limitation forced us to reconsider device placement entirely. While most existing dairy monitoring solutions employ collar-mounted devices, we had to pioneer an ear-mounted approach—a decision that would reshape our entire technical architecture and manufacturing strategy.
 
@@ -49,8 +49,15 @@ The technical challenges were formidable. Cows possess a layer of fur that makes
 We centered our approach around an ear-mounted device designed to survive the harsh realities of farm life while delivering laboratory-grade data accuracy.
 
 **Hardware Design**: With the help of an old friend who is an expert in electronics/PCB design, we engineered a rugged, waterproof housing that protected multiple sophisticated sensors—accelerometers for movement tracking, temperature sensors for internal heat monitoring, and specialized algorithms to detect rumination patterns. The device needed to function flawlessly for several years with minimal human intervention, enduring everything from torrential rains to subzero winters. One of our coolest design challenges was the charging system. Since cows return to specific docking pods in the shed at the end of each day, we designed our device to charge wirelessly when they were docked—kind of like a Tesla at a supercharger station. We used induction charging with a head coil that worked similar to the coils humans wear during MRI scans, so the device could power up overnight while the cow rested.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/FarmPlus_tech.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    3D rendering of the first prototype. We designed a custom board to house the sensors and a seperate battery which was chargeable uwing usb but was later swapped with a better induction based design. The outer casing was 3D printed ABS. 
+</div>
 
-{% include figure.liquid loading="eager" path="assets/img/FarmPlus_tech.jpg" class="img-fluid rounded z-depth-1" %}
 
 **Connectivity**: The scale of American agriculture demanded a connectivity solution as ambitious as the farms themselves. With the average U.S. farm spanning 500 acres, conventional Bluetooth or even long-range WiFi proved woefully inadequate. Drawing inspiration from cellular tower technology, we implemented a mesh network system using long-range, low-power radio frequencies. This innovation allowed data from individual cows to flow seamlessly to a central hub, even across vast properties with limited technological infrastructure.
 
