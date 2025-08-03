@@ -131,4 +131,4 @@ _What began as an evening conversation over chai evolved into a genuine startup 
 
 {% include figure.liquid loading="eager" path="assets/img/WCboys.png" class="img-fluid rounded z-depth-1" %}
 
-- Cheers, A
+~ Cheers, A
