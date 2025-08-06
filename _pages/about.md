@@ -39,8 +39,8 @@ My research interests lie at the intersection of artificial intelligence, neuros
 ### CS Research:
 
 - **Multimodal learning, Vision-Language, and reasoning**: Data and compute optimization strategies for LLMs/LMMs using non-convex optimization techniques.
-- **Mechanistic interpretability**: I'm interested in understanding how LLMs reason and develop internal biases, and developing methods to overcome these biases, with a focus on healthcare.
-- **AI Mis/Alignment**: Surgically understanding and removing features in LLMs that lead to [AI misalignment](https://arxiv.org/abs/2310.19852)
+- **Mechanistic interpretability**: I'm interested in understanding how LLMs reason and develop internal biases, and developing methods to overcome these biases, with a focus on healthcare applications.
+- **AI Mis/Alignment**: Surgically dissecting and removing features in LLMs that lead to [AI misalignment](https://arxiv.org/abs/2310.19852)
 - **Federated learning**: Harmonizing heterogeneous non-i.i.d data in a model agnostic and modality agnostic setting while maintaining SOTA privacy measures.
 
 ### Clinical Research:
