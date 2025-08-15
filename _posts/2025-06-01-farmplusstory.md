@@ -16,7 +16,7 @@ bibliography: 2025-06-01-farmplusstory.bib
 ---
 _Disclaimer: This is definitely not a technical blog post. Think of this as my attempt to document something important that happened to me, somewhere between "dear diary" and "academic paper that puts people to sleep.". I use "we" a lot more in this blog because although I was responsible for building the tech, this was very much a team effort :)_
 
-We all underestimate the importance of dairy in our lives. Our morning coffee, the cereal we grab for breakfast, the cream in our pasta sauces, and countless other foods we consume daily all depend on a reliable supply of fresh, high-quality milk. Yet most of us never stop to think about the complex systems and challenges that dairy farmers face to get that milk from farm to table.
+All of us underestimate the importance of dairy in our lives. Our morning coffee, the cereal we grab for breakfast, the cream in our pasta sauces, and countless other foods we consume daily all depend on a reliable supply of fresh, high-quality milk. Yet most of us never stop to think about the complex systems and challenges that dairy farmers face to get that milk from farm to table.
 
 This is the story of how a casual evening conversation over chai led to FarmPlus, a dairy-tech startup that won first place at the 2022 Hopkins New Venture Challenge and was subsequently incubated at the JHU Spark Incubator. It's about how a random idea turned into a real startup experience and all the things we learned along the way.
 
