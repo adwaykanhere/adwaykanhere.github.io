@@ -39,7 +39,7 @@ My research interests lie at the intersection of artificial intelligence, neuros
 ### CS Research:
 
 - **Multimodal learning, Vision-Language, and reasoning**: Data and compute optimization strategies for LLMs/LMMs using non-convex optimization techniques.
-- **Mechanistic interpretability**: I'm interested in understanding how LLMs reason and develop internal biases, and developing methods to overcome these biases, with a focus on healthcare applications.
+- **Mechanistic interpretability**: How LLMs reason and develop internal biases, and developing methods to overcome these biases, with a focus on healthcare applications.
 - **AI Mis/Alignment**: Surgically dissecting and removing features in LLMs that lead to [AI misalignment](https://arxiv.org/abs/2310.19852)
 - **Federated learning**: Harmonizing heterogeneous non-i.i.d data in a model agnostic and modality agnostic setting while maintaining SOTA privacy measures.
 
@@ -54,4 +54,4 @@ I was also the co-founder of Farmplus, a dairy-tech startup where we built a coo
 
 ## IRL:
 
-When the GPUs cool down and my attention span times out, I swap keyboards for hand wraps and go a few rounds with a punching bag, or log suspicious "cardiovascular spikes" at Centennial Park/JHU Homewood campus (translation: marathon training, but with a strategic 🧋 stop at the end). Apart from cardio, I like to indulge in acoustic sessions where I attempt to merge film-score strings with indian classical strings like the santoor and sitar, and emerge as something my neighbors describe “formally interesting.” I also enjoy cooking, and if friends arrive for the food they stay for the impromptu debate on whether prompt engineering and vibe coding should be on my résumé. Once a month I also attempt a full digital detox in the mountains. No Wi-Fi, no federated anything - just me, my playlist, and whatever existential bug reports nature files. It’s amazing how well our brain's neural networks converge when the only feedback loop is nature telling you to chill.
+When the GPUs cool down and my attention span times out, I swap keyboards for hand wraps and go a few rounds with a punching bag, or log suspicious "cardiovascular spikes" at Centennial Park/JHU Homewood campus (translation: marathon training, but with a strategic 🧋 stop at the end). Apart from cardio, I also indulge in acoustic sessions where I attempt to merge film-score strings with indian classical strings like the santoor and sitar, and emerge as something my neighbors describe “formally interesting.” I also enjoy cooking, and if friends arrive for the food they stay for the impromptu debate on whether prompt engineering and vibe coding should be on my résumé. Once a month I also attempt a full digital detox in the mountains. Just me, my playlist, and whatever existential bug reports nature files. It’s amazing how well our brain's neural networks converge when the only feedback loop is nature telling you to chill.
