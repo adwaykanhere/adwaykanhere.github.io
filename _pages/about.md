@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 profile:
   align: right
-  image: addy_seattle.JPEG
+  image: IMG_4823.jpeg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
