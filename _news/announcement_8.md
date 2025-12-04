@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Astronomically grateful to be nominated as an Emerging Investigator for our AJRCCM paper by the American Thoracic Society (ATS)! Our publication was the highlighted on the front page of the November Issue. 
+Astronomically grateful to be nominated as an Emerging Investigator for our AJRCCM paper by the American Thoracic Society (ATS)! Our publication was highlighted on the front page of the November Issue. 
