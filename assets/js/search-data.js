@@ -92,7 +92,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-my-phd-in-computer-science-working-in-the-viu-lab-at-jhu-happy-to-be-back-and-go-hop",
           title: 'I started my PhD in Computer Science working in the VIU Lab at...',
           description: "",
-          section: "News",},{id: "news-astronomically-grateful-to-be-nominated-as-an-emerging-investigator-for-our-ajrccm-paper-by-the-american-thoracic-society-ats-our-publication-was-the-highlighted-on-the-front-page-of-the-november-issue",
+          section: "News",},{id: "news-astronomically-grateful-to-be-nominated-as-an-emerging-investigator-for-our-ajrccm-paper-by-the-american-thoracic-society-ats-our-publication-was-highlighted-on-the-front-page-of-the-november-issue",
           title: 'Astronomically grateful to be nominated as an Emerging Investigator for our AJRCCM paper...',
           description: "",
           section: "News",},{id: "projects-project-1",
