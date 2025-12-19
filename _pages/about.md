@@ -30,7 +30,7 @@ latest_posts:
 
 I'm a first-year CS PhD student at [The Johns Hopkins University](jhu.edu), advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/). I previously worked as a Research Engineer at the University of Maryland Institute for Health Computing where I developed ML/AI for translational biomedical applications in surgery, radiology, and healthtech infra.
 
-On the academic side, I also occasionally lecture as an Adjunct Instructor at JHU’s Carey Business School. Before that, I received a master's degree in biomedical engineering, also from Hopkins, where I learned the fine art of taking really expensive 3D selfies of internal organs via MRI and CT. Turns out there's decent interest in professional photography of the human body, as long as you call it "medical imaging."
+In the past, I have occasionally lectured as an Adjunct Instructor at JHU’s Carey Business School. Before that, I received a master's degree in biomedical engineering, also from Hopkins, where I learned the fine art of taking really expensive 3D selfies of internal organs via MRI and CT. Turns out there's decent interest in professional photography of the human body, as long as you call it "medical imaging."
 
 ## Research:
 
