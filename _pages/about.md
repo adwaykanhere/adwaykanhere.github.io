@@ -28,7 +28,7 @@ latest_posts:
 
 :wave: Hey there! Welcome to my slice of the web - part dev notebook, part research shenanigans and the rest about coaxing GPUs to behave.
 
-I'm a first-year CS PhD student at [The Johns Hopkins University](https://jhu.edu), advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/). I previously worked as a Research Engineer at the University of Maryland Institute for Health Computing where I developed ML/AI for translational biomedical applications in surgery, radiology, and healthtech infra.
+I'm a first-year CS PhD student at [The Johns Hopkins University](https://jhu.edu). I previously worked as a Research Engineer at the University of Maryland Institute for Health Computing where I developed ML/AI for translational biomedical applications in surgery, radiology, and healthtech infra.
 
 In the past, I have occasionally lectured as an Adjunct Instructor at JHU’s Carey Business School. Before that, I received a master's degree in biomedical engineering, also from Hopkins, where I learned the fine art of taking really expensive 3D selfies of internal organs via MRI and CT. Turns out there's decent interest in professional photography of the human body, as long as you call it "medical imaging."
 
