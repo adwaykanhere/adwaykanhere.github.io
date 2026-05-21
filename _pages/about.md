@@ -39,8 +39,8 @@ My research interests lie at the intersection of artificial intelligence, neuros
 ### CS Research:
 
 - **Multimodal learning, Vision-Language foundational models, and reasoning**: Data and compute optimization strategies for LLMs/LMMs using non-convex optimization techniques.
-- **Mechanistic interpretability**: How LLMs reason and develop internal biases, and developing methods to overcome these biases, with a focus on healthcare applications.
-- **AI Mis/Alignment**: Surgically dissecting and removing features in LLMs that lead to [AI misalignment](https://arxiv.org/abs/2310.19852)
+- **Surgical world models**: Physics-aligned generative models of surgical scenes that capture instrument-tissue dynamics and procedural state, enabling downstream applications in skill assessment, simulation, and pre-operative planning.
+- **Long video generation**:  Scaling video diffusion models to minute-scale, temporally coherent generation through test-time training, memory-augmented architectures, and curriculum-based fine-tuning strategies.
 - **Federated learning**: Harmonizing heterogeneous non-i.i.d data in a model agnostic and modality agnostic setting while maintaining SOTA privacy measures.
 
 ### Clinical Research:
